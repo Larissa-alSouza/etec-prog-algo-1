@@ -9,6 +9,9 @@ programa
 	{
 		real l, c, area
 
+		escreva("Programa desenvolvido por: Larissa Alves de Souza\n\n")
+		escreva("Este programa calcula a área de terrenos fornecendo os lados.\n")
+
 		escreva("Digite o valor da largura: ")
 		leia(l)
 		
@@ -17,6 +20,7 @@ programa
 
 		area = l * c
 
-		escreva("A area e de: ", area)
+		escreva("A área e de: ", area)
 	}
 }
+
