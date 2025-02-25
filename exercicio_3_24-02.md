@@ -1,4 +1,5 @@
 programa {
+
   funcao inicio() {
 
     real a, m, d, as, ms, result
@@ -16,4 +17,5 @@ programa {
 
     escreva(result)
   }
+  
 }
