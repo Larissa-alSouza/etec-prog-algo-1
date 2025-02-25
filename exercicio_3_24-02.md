@@ -1,6 +1,7 @@
 programa {
 
-  funcao inicio() {
+  funcao inicio() 
+  {
 
     real a, m, d, as, ms, result
 
