@@ -1,3 +1,6 @@
+<!-- LISTA DE EXERCÍCIOS II -->
+<!-- 2. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e converta-a para apenas em dias. -->
+
 programa {
 
   funcao inicio() 
