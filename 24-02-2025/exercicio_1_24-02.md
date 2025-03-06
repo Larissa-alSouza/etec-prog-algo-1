@@ -1,3 +1,6 @@
+<!-- LISTA DE EXERCÍCIOS I -->
+<!-- 3. Calcular a idade de uma pessoa, a partir do seu ano de nscimento. Informar também seu nome e mostrar como resultadoo nome e a sua idade. -->
+
 programa
 {
 
