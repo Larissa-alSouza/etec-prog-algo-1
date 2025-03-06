@@ -1,3 +1,6 @@
+<!-- LISTA DE EXERCÍCIOS I -->
+<!-- 1. Faça um algoritmo que represente um valor pelo teclado e mostre como seu resultado seu dobro e a sua metade. -->
+
 programa
 {
 	
