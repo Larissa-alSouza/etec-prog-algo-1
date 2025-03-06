@@ -1,3 +1,10 @@
+<!-- LISTA DE EXERCÍCIOS I -->
+
+<!-- 
+5. Escreva um algoritmo que leia três números inteiros e positivos (a, b, c) e calcule a seguinte expressão: d = (r + s) / 2
+onde: r = (a + b) / c e s = (b + c) / a
+-->
+
 programa
 {
 	
