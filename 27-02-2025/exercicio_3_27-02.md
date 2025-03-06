@@ -1,3 +1,6 @@
+<!-- LISTA DE EXERCÍCIOS I -->
+<!-- 4. Ler o salário mensal atual de um funcionário e o aumento de salário. Calcular e escrever o valor do novo salário. -->
+
 programa
 {
 	
