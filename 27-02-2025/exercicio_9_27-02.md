@@ -8,7 +8,6 @@ programa
   {
 
     inteiro ano
-    real result
 
     escreva("Qual ano você gostaria  de verificar? ")
     leia(ano)
