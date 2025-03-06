@@ -1,3 +1,6 @@
+<!-- LISTA DE EXERCÍCIOS I -->
+<!-- 2. Leia um número e mostre como seu resultado seu antecessor e seu sucessor. -->
+
 programa
 {
 	
