@@ -1,3 +1,6 @@
+<!-- PRIMEIRO EXERCÍCIO NO PORTUGOL STUDIO -->
+<!-- 1. Calcular área de terreno -->
+
 Portugol Studio
 
 # PROGRAMACAO-E-ALGORITMOS-ETEC-Modulo-I
