@@ -1,7 +1,7 @@
 <!-- LISTA DE EXERCÍCIOS II -->
 <!-- 9. Que informe se um dado ano é bissexto ou não bissexto. OBS: um ano é bissexto se ele for divisível por 400 ou por 4 e não for divisível por 100. -->
 
-programa 
+programa
 {
 
   funcao inicio() 
