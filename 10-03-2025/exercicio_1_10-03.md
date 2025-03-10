@@ -1,3 +1,5 @@
+<!-- Calcular a média de 2 notas dos alunos (usando faca) -->
+
 programa {
   funcao inicio() {
     
