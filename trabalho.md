@@ -4,14 +4,14 @@ programa {
     cadeia nome
     inteiro ano_atual, mes_atual, ano_nasc, mes_nasc, ano_entrada, mes_entrada, i_anos, i_meses, tempo_trab_anos, tempo_trab_meses
 
+    escreva("Insira o nome do funcionário: ")
+    leia(nome)
+
     escreva("Insira o ano atual: ")
     leia(ano_atual)
 
     escreva("Insira o mês atual: ")
     leia(mes_atual)
-
-    escreva("Insira o nome do funcionário: ")
-    leia(nome)
 
     escreva("Insira o ano de nascimento desse funcionário: ")
     leia(ano_nasc)
