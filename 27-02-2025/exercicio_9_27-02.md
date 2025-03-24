@@ -12,7 +12,7 @@ programa
     escreva("Qual ano você gostaria  de verificar? ")
     leia(ano)
 
-    se(ano % 4 == 0 e ano % 100 != 0)
+    se(ano % 400 == 0 ou ano % 4 == 0 e ano % 100 != 0)
     {
       escreva("O ano de ", ano, ", é bissexto!")
     }
