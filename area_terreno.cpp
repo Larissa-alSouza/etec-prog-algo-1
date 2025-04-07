@@ -15,4 +15,6 @@ main()
 	ar = l * c;
 	
 	printf("A area do terreno do terreno de largura %.2f e comprimento %.2f = %.2f", l, c, ar);
+	
+	system("pause");
 }
