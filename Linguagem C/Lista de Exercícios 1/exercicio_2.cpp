@@ -1,4 +1,4 @@
-/* 1- Leia um número e mostre como seu resultado seu antecessor e seu sucessor */
+/* 2- Leia um número e mostre como seu resultado seu antecessor e seu sucessor */
 
 #include <stdio.h>
 
