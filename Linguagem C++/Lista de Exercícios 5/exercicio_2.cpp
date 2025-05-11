@@ -8,7 +8,7 @@ int main()
 {
     setlocale(LC_ALL, "Portuguese");
     
-    int idade, soma1 = 0, soma2 = 0, contador = 0;
+    int idade, soma1 = 0, soma2 = 0;
 
     while (true) {
         
