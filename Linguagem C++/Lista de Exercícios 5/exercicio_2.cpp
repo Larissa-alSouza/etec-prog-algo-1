@@ -25,7 +25,7 @@ int main()
         {
             soma1 += 1;
         } 
-        else 
+        else if(idade >= 50)
         {
             soma2 += 1;
         }
