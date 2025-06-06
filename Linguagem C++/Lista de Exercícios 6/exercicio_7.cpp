@@ -27,5 +27,7 @@ main()
 	for(i = 0; i < 5; i++)
 	{
 		v2[i] = v1[i] * x;
+		
+		cout << v2[i];
 	}
 }
