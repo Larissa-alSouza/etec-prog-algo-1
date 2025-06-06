@@ -14,10 +14,12 @@ main()
 		cin >> v1[i];
 	}
 	
-	for(i = 4; i > -1; i--)
+	
+	for(i = 0; i < 5; i++)
 	{
-		v2[i] = v1[i];
-		
-		cout << v2[i];
+	    v2[i] = v1[4 - i];
+	    cout << "indice: " << i << " está com o valor: " << v2[i] << "\n";
 	}
+	
+	
 }
