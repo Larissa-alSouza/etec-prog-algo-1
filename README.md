@@ -1,4 +1,4 @@
-<h1>💻 Programação e Algoritmos - ETEC</h1>
+<h1>💻 Programação e Algoritmos - 1° Módulo - ETEC</h1>
 
   <p>
     <img src="https://img.shields.io/badge/language-Portugol-blueviolet" alt="Portugol" />
